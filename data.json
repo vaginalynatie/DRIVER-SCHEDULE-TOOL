@@ -1,0 +1,709 @@
+[
+  {
+    "PickupAddress": "98 ARNOLD RD NE STATHAM, GA 30666-2201",
+    "DropOffAddress": "63 Lee St Winder, GA 30680",
+    "StandingOrderDays": "Monday, Wednesday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "08:00"
+  },
+  {
+    "PickupAddress": "1272 Harmony Grove Church Rd Auburn, GA 30011",
+    "DropOffAddress": "2349 Sparta Way Buford, GA 30519",
+    "StandingOrderDays": "Tuesday, Thursday, Saturday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "10:15"
+  },
+  {
+    "PickupAddress": "252 Springdale Dr Winder, GA 30680",
+    "DropOffAddress": "185 OLD PEACHTREE RD NW SUWANEE, GA 30024-2511",
+    "StandingOrderDays": "Tuesday, Thursday, Saturday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "10:37"
+  },
+  {
+    "PickupAddress": "611 Sunny Ln Ringgold, GA 30736",
+    "DropOffAddress": "806 E Villanow St Lafayette, GA 30728",
+    "StandingOrderDays": "Monday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "08:28"
+  },
+  {
+    "PickupAddress": "1067 BATTLEFIELD PKWY FORT OGLETHORPE, GA 30742-3947",
+    "DropOffAddress": "102 Erlanger South Dr Ringgold, GA 30736",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "09:15"
+  },
+  {
+    "PickupAddress": "401 Forrest Rd Fort Oglethorpe, GA 30742",
+    "DropOffAddress": "201 Thomas Rd Fort Oglethorpe, GA 30742",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "13:15"
+  },
+  {
+    "PickupAddress": "960 HIGHLAND AVENUE SUMMERVILLE, GA 30747",
+    "DropOffAddress": "614 Patterson Rd LaFayette, GA 30728",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "05:15"
+  },
+  {
+    "PickupAddress": "687 Wiggins Rd Lyerly, GA 30730",
+    "DropOffAddress": "20 Riverbend Dr SW Rome, GA 30161",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "09:35"
+  },
+  {
+    "PickupAddress": "409 Lakestone Dr Woodstock, GA 30188",
+    "DropOffAddress": "1942 CLAIRMONT RD DECATUR, GA 30033-3406",
+    "StandingOrderDays": "Tuesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "09:10"
+  },
+  {
+    "PickupAddress": "223 Regent Sq Woodstock, GA 30188",
+    "DropOffAddress": "6133 Love St SW Austell, GA 30168",
+    "StandingOrderDays": "Tuesday, Thursday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "07:41"
+  },
+  {
+    "PickupAddress": "3869 Guilderoy Ln Austell, GA 30106",
+    "DropOffAddress": "1720 Powder Springs Rd SW 150 Marietta, GA 30064",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "05:30"
+  },
+  {
+    "PickupAddress": "4212 Woodfare Ln NW Kennesaw, GA 30152",
+    "DropOffAddress": "3372 Acworth Summit Blvd Acworth, GA 30101",
+    "StandingOrderDays": "Tuesday, Thursday, Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "10:55"
+  },
+  {
+    "PickupAddress": "2665 Favor Rd SW 2D17 Marietta, GA 30060",
+    "DropOffAddress": "1640 Powers Ferry Rd 100 bld 19 Marietta, GA 30067",
+    "StandingOrderDays": "Thursday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "14:00"
+  },
+  {
+    "PickupAddress": "360 Riverside Pkwy 1C Austell, GA 30168",
+    "DropOffAddress": "2563 Martin Luther King Jr Dr SW Atlanta, GA 30311",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "09:30"
+  },
+  {
+    "PickupAddress": "2164 Major Loring Way SW Marietta, GA 30064",
+    "DropOffAddress": "4279 Austell Powder Springs Rd SW Powder Springs, GA 30127",
+    "StandingOrderDays": "Tuesday, Thursday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "08:00"
+  },
+  {
+    "PickupAddress": "360 Northland Rd SW Mableton, GA 30126",
+    "DropOffAddress": "1640 Powers Ferry Rd 100 bld 19 Marietta, GA 30067",
+    "StandingOrderDays": "Wednesday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "09:30"
+  },
+  {
+    "PickupAddress": "26 Tower Rd NW Marietta, GA 30060",
+    "DropOffAddress": "2001 Professional Pkwy 100 Woodstock, GA 30188",
+    "StandingOrderDays": "Monday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "06:15"
+  },
+  {
+    "PickupAddress": "2150 W Carlyle Ct Marietta, GA 30062",
+    "DropOffAddress": "3655 Canton Rd 201 Marietta, GA 30066",
+    "StandingOrderDays": "Tuesday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "07:30"
+  },
+  {
+    "PickupAddress": "5966 Magnolia Dr Austell, GA 30168",
+    "DropOffAddress": "1920 Briarcliff Rd NE Atlanta, GA 30329",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "12:17"
+  },
+  {
+    "PickupAddress": "2208 Thicket Ct NW Acworth, GA 30102",
+    "DropOffAddress": "110 LONDONDERRY CT WOODSTOCK, GA 30188-7360",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "04:30"
+  },
+  {
+    "PickupAddress": "70 Magnolia Ave Mableton, GA 30126",
+    "DropOffAddress": "200 Cobb Pkwy NE 318 Marietta, GA 30062",
+    "StandingOrderDays": "Tuesday, Thursday, Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "05:24"
+  },
+  {
+    "PickupAddress": "926 Ballew Dr Marietta, GA 30066",
+    "DropOffAddress": "110 LONDONDERRY CT WOODSTOCK, GA 30188-7360",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "10:40"
+  },
+  {
+    "PickupAddress": "2129 Favor Rd SW 3 Marietta, GA 30060",
+    "DropOffAddress": "1230 Johnson Ferry Pl NE G-10 Marietta, GA 30068",
+    "StandingOrderDays": "Monday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "08:57"
+  },
+  {
+    "PickupAddress": "1800 Barrett Lakes Blvd NW 3300H Kennesaw, GA 30144",
+    "DropOffAddress": "1277 Kennestone Circle NW 600 Marietta, GA 30066",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "05:30"
+  },
+  {
+    "PickupAddress": "2490 Centennial Creek Pl NW Acworth, GA 30102",
+    "DropOffAddress": "1277 Kennestone Circle NW 600 Marietta, GA 30066",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "10:50"
+  },
+  {
+    "PickupAddress": "627 Crosswinds Circle Marietta, GA 30008",
+    "DropOffAddress": "1720 Powder Springs Rd SW 150 Marietta, GA 30064",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "04:45"
+  },
+  {
+    "PickupAddress": "6012 Colt Ridge Trail SE Mableton, GA 30126",
+    "DropOffAddress": "200 Cobb Pkwy NE 318 Marietta, GA 30062",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "05:34"
+  },
+  {
+    "PickupAddress": "1480 Sandtown Rd SW Marietta, GA 30008",
+    "DropOffAddress": "1886 Stallion Pkwy SW Austell, GA 30106",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "11:00"
+  },
+  {
+    "PickupAddress": "2744 Whitewater Ct Austell, GA 30106",
+    "DropOffAddress": "101 Bainbridge Way 130 Dallas, GA 30132",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "09:00"
+  },
+  {
+    "PickupAddress": "4561 Canton Rd Marietta, GA 30066",
+    "DropOffAddress": "4279 Austell Powder Springs Rd SW Powder Springs, GA 30127",
+    "StandingOrderDays": "Monday, Friday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "07:24"
+  },
+  {
+    "PickupAddress": "6036 Garner Rd SW Mableton, GA 30126",
+    "DropOffAddress": "4279 Austell Powder Springs Rd SW Powder Springs, GA 30127",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "07:30"
+  },
+  {
+    "PickupAddress": "825 Powder Springs St 1201 Marietta, GA 30064",
+    "DropOffAddress": "2109 Fairburn Rd A Douglasville, GA 30135",
+    "StandingOrderDays": "Tuesday, Thursday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "05:38"
+  },
+  {
+    "PickupAddress": "1169 Laurel Log Pl Austell, GA 30168",
+    "DropOffAddress": "1720 Phoenix Pkwy 600 College Park, GA 30349",
+    "StandingOrderDays": "Tuesday, Thursday, Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "04:37"
+  },
+  {
+    "PickupAddress": "880 Orris Ln SW Mableton, GA 30126",
+    "DropOffAddress": "2109 Fairburn Rd A Douglasville, GA 30135",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "08:30"
+  },
+  {
+    "PickupAddress": "2432 Powder Springs Rd SW Marietta, GA 30064",
+    "DropOffAddress": "120 Interstate North Pky East SE 420 Atlanta, GA 30339",
+    "StandingOrderDays": "Monday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "08:30"
+  },
+  {
+    "PickupAddress": "2682 Windy Hill Rd SE Marietta, GA 30067",
+    "DropOffAddress": "631 Exchange Pl NW A Lilburn, GA 30047",
+    "StandingOrderDays": "Tuesday, Thursday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "08:33"
+  },
+  {
+    "PickupAddress": "2682 Windy Hill Rd SE Marietta, GA 30067",
+    "DropOffAddress": "631 Exchange Pl NW A Lilburn, GA 30047",
+    "StandingOrderDays": "Tuesday, Thursday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "08:18"
+  },
+  {
+    "PickupAddress": "30 River Valley Rd Dawsonville, GA 30534",
+    "DropOffAddress": "3530 Rowe Ln Cumming, GA 30041",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "12:30"
+  },
+  {
+    "PickupAddress": "102 Nashport Ln Dawsonville, GA 30534",
+    "DropOffAddress": "1370 BUFORD HWY CUMMING, GA 30041",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "10:08"
+  },
+  {
+    "PickupAddress": "830 Durham Crossing Stone Mountain, GA 30083",
+    "DropOffAddress": "1285 Wellbrook Circle NE Conyers, GA 30012",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "06:03"
+  },
+  {
+    "PickupAddress": "539 Safari Cir Stone Mountain, GA 30083",
+    "DropOffAddress": "8032 Rockbridge Rd Lithonia, GA 30058",
+    "StandingOrderDays": "Tuesday, Thursday, Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "05:45"
+  },
+  {
+    "PickupAddress": "466 Maid Marion Ln Stone Mountain, GA 30087",
+    "DropOffAddress": "1987 Candler Rd C Decatur, GA 30032",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "10:00"
+  },
+  {
+    "PickupAddress": "3163 Clairebrooke Ave Chamblee, GA 30341-5134",
+    "DropOffAddress": "1150 LAKE HEARN DR NE 100 ATLANTA, GA 30342-1522",
+    "StandingOrderDays": "Tuesday, Thursday, Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "10:50"
+  },
+  {
+    "PickupAddress": "4516 Dorset Dr Decatur, GA 30035",
+    "DropOffAddress": "5405 Memorial Drive Stone Mountain , GA 30083",
+    "StandingOrderDays": "Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "15:00"
+  },
+  {
+    "PickupAddress": "35 Kirkwood Rd NE Atlanta, GA 30317",
+    "DropOffAddress": "5721 Miller Grove Rd Lithonia, GA 30058",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "06:00"
+  },
+  {
+    "PickupAddress": "121 Carteret Pl Decatur, GA 30032",
+    "DropOffAddress": "4570 Memorial Dr B Decatur, GA 30032",
+    "StandingOrderDays": "Tuesday, Thursday, Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "09:20"
+  },
+  {
+    "PickupAddress": "33 Le Parc Fontaine Lithonia, GA 30038",
+    "DropOffAddress": "155 BRANDYWINE BLVD FAYETTEVILLE, GA 30214",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "04:02"
+  },
+  {
+    "PickupAddress": "2913 Cocklebur Trail Decatur, GA 30034",
+    "DropOffAddress": "1757 Candler Rd Decatur, GA 30032",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "11:30"
+  },
+  {
+    "PickupAddress": "1211 Spring Chase Circle Stone Mountain, GA 30083",
+    "DropOffAddress": "1116 E Ponce de Leon Ave Decatur, GA 30030",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "06:20"
+  },
+  {
+    "PickupAddress": "3105 Cedar Brook Dr Decatur, GA 30033",
+    "DropOffAddress": "5235 Memorial Dr Stone Mountain, GA 30083",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "04:45"
+  },
+  {
+    "PickupAddress": "466 Maid Marion Ln Stone Mountain, GA 30087",
+    "DropOffAddress": "1987 Candler Rd C Decatur, GA 30032",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "10:00"
+  },
+  {
+    "PickupAddress": "3163 Clairebrooke Ave Chamblee, GA 30341-5134",
+    "DropOffAddress": "1150 LAKE HEARN DR NE 100 ATLANTA, GA 30342-1522",
+    "StandingOrderDays": "Tuesday, Thursday, Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "10:50"
+  },
+  {
+    "PickupAddress": "4516 Dorset Dr Decatur, GA 30035",
+    "DropOffAddress": "5405 Memorial Drive Stone Mountain , GA 30083",
+    "StandingOrderDays": "Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "15:00"
+  },
+  {
+    "PickupAddress": "35 Kirkwood Rd NE Atlanta, GA 30317",
+    "DropOffAddress": "5721 Miller Grove Rd Lithonia, GA 30058",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "06:00"
+  },
+  {
+    "PickupAddress": "121 Carteret Pl Decatur, GA 30032",
+    "DropOffAddress": "4570 Memorial Dr B Decatur, GA 30032",
+    "StandingOrderDays": "Tuesday, Thursday, Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "09:20"
+  },
+  {
+    "PickupAddress": "33 Le Parc Fontaine Lithonia, GA 30038",
+    "DropOffAddress": "155 BRANDYWINE BLVD FAYETTEVILLE, GA 30214",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "04:02"
+  },
+  {
+    "PickupAddress": "2913 Cocklebur Trail Decatur, GA 30034",
+    "DropOffAddress": "1757 Candler Rd Decatur, GA 30032",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "11:30"
+  },
+  {
+    "PickupAddress": "1211 Spring Chase Circle Stone Mountain, GA 30083",
+    "DropOffAddress": "1116 E Ponce de Leon Ave Decatur, GA 30030",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "06:20"
+  },
+  {
+    "PickupAddress": "3105 Cedar Brook Dr Decatur, GA 30033",
+    "DropOffAddress": "5235 Memorial Dr Stone Mountain, GA 30083",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "04:45"
+  },
+  {
+    "PickupAddress": "1023 N Hairston Rd E-4 Stone Mountain, GA 30083",
+    "DropOffAddress": "5675 Jimmy Carter Blvd NW 665-A Norcross, GA 30071",
+    "StandingOrderDays": "Tuesday, Wednesday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "09:00"
+  },
+  {
+    "PickupAddress": "2378 Springrun Way Decatur, GA 30032",
+    "DropOffAddress": "2886 Memorial Dr SE Atlanta, GA 30317",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "09:30"
+  },
+  {
+    "PickupAddress": "3182 Pin Oak Way Doraville, GA 30340",
+    "DropOffAddress": "610 Northside Dr NW Atlanta, GA 30318",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "10:38"
+  },
+  {
+    "PickupAddress": "5 Chatfield Dr L Stone Mountain, GA 30083",
+    "DropOffAddress": "4434 HUGH HOWELL RD TUCKER, GA 30084",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "06:30"
+  },
+  {
+    "PickupAddress": "3954 Memorial College Ave 17 Clarkston, GA 30021",
+    "DropOffAddress": "3648 Chamblee Tucker Rd STE F Atlanta, GA 30341",
+    "StandingOrderDays": "Tuesday, Thursday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "08:30"
+  },
+  {
+    "PickupAddress": "915 Arbor Crossing Dr Lithonia, GA 30058",
+    "DropOffAddress": "4262 Clausell Ct A Decatur, GA 30035",
+    "StandingOrderDays": "Monday, Tuesday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "15:00"
+  },
+  {
+    "PickupAddress": "4567 Dogwood Farms Dr Decatur, GA 30034",
+    "DropOffAddress": "23 Warren St SE Atlanta, GA 30317",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "08:28"
+  },
+  {
+    "PickupAddress": "3902 Memorial College Ave 16 Clarkston, GA 30021",
+    "DropOffAddress": "3648 Chamblee Tucker Rd STE F Atlanta, GA 30341",
+    "StandingOrderDays": "Tuesday, Thursday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "08:30"
+  },
+  {
+    "PickupAddress": "1765 Stone Meadow Rd Lithonia, GA 30058",
+    "DropOffAddress": "1309 Milstead Ave NE Conyers, GA 30012",
+    "StandingOrderDays": "Monday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "09:45"
+  },
+  {
+    "PickupAddress": "4118 Sioux Way Stone Mountain, GA 30083",
+    "DropOffAddress": "3807 Clairmont Rd. Atlanta, GA 30341",
+    "StandingOrderDays": "Tuesday, Wednesday, Thursday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "08:30"
+  },
+  {
+    "PickupAddress": "2425 Aylesbury Loop 114 Decatur, GA 30034",
+    "DropOffAddress": "3807 Clairmont Rd. Atlanta, GA 30341",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "08:28"
+  },
+  {
+    "PickupAddress": "2330 Kenridge Pkwy Decatur, GA 30032",
+    "DropOffAddress": "1116 E Ponce de Leon Ave Decatur, GA 30030",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "07:00"
+  },
+  {
+    "PickupAddress": "1382 Saxony Sq Stone Mountain, GA 30083",
+    "DropOffAddress": "341 Ponce de Leon Ave NE Atlanta, GA 30308",
+    "StandingOrderDays": "Friday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "07:30"
+  },
+  {
+    "PickupAddress": "2140 RIVERBROOK RD DECATUR, GA 30035-2921",
+    "DropOffAddress": "341 Ponce de Leon Ave NE Atlanta, GA 30308",
+    "StandingOrderDays": "Wednesday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "08:28"
+  },
+  {
+    "PickupAddress": "5600 Buford Hwy 105 Doraville, GA 30340",
+    "DropOffAddress": "1150 LAKE HEARN DR NE 100 ATLANTA, GA 30342-1522",
+    "StandingOrderDays": "Tuesday, Thursday, Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "10:30"
+  },
+  {
+    "PickupAddress": "1099 RAYS RD STONE MOUNTAIN, GA 30083-1738",
+    "DropOffAddress": "1920 Briarcliff Rd NE Atlanta, GA 30329",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "08:15"
+  },
+  {
+    "PickupAddress": "5867 Taka Ln Stonecrest, GA 30038",
+    "DropOffAddress": "4150 Snapfinger Woods Dr 208 Decatur, GA 30035",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "08:30"
+  },
+  {
+    "PickupAddress": "4321 Holly Hill Blvd Ellenwood, GA 30294",
+    "DropOffAddress": "5721 Miller Grove Rd Lithonia, GA 30058",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "07:15"
+  },
+  {
+    "PickupAddress": "6757 Covington Hwy 312 Lithonia, GA 30058",
+    "DropOffAddress": "2485 PARK CENTRAL BLVD DECATUR, GA 30035-3903",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "05:00"
+  },
+  {
+    "PickupAddress": "2443 E Club Dr NE 305B Brookhaven, GA 30319",
+    "DropOffAddress": "6160 Peachtree Dunwoody Rd A110 Atlanta, GA 30328",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "11:00"
+  },
+  {
+    "PickupAddress": "206 Thicket Way Decatur, GA 30035",
+    "DropOffAddress": "6085 Hillandale Dr Lithonia, GA 30058",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "11:10"
+  },  {
+    "PickupAddress": "2432 Powder Springs Rd SW Marietta, GA 30064",
+    "DropOffAddress": "120 Interstate North Pky East SE 420 Atlanta, GA 30339",
+    "StandingOrderDays": "Monday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "14:00"
+  },
+  {
+    "PickupAddress": "2682 Windy Hill Rd SE Marietta, GA 30067",
+    "DropOffAddress": "631 Exchange Pl NW A Lilburn, GA 30047",
+    "StandingOrderDays": "Tuesday, Thursday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "13:00"
+  },
+  {
+    "PickupAddress": "2682 Windy Hill Rd SE Marietta, GA 30067",
+    "DropOffAddress": "631 Exchange Pl NW A Lilburn, GA 30047",
+    "StandingOrderDays": "Tuesday, Thursday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "13:00"
+  },
+  {
+    "PickupAddress": "30 River Valley Rd Dawsonville, GA 30534",
+    "DropOffAddress": "3530 Rowe Ln Cumming, GA 30041",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "17:30"
+  },
+  {
+    "PickupAddress": "102 Nashport Ln Dawsonville, GA 30534",
+    "DropOffAddress": "1370 BUFORD HWY CUMMING, GA 30041",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "15:45"
+  },
+  {
+    "PickupAddress": "830 Durham Crossing Stone Mountain, GA 30083",
+    "DropOffAddress": "1285 Wellbrook Circle NE Conyers, GA 30012",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "10:50"
+  },
+  {
+    "PickupAddress": "539 Safari Cir Stone Mountain, GA 30083",
+    "DropOffAddress": "8032 Rockbridge Rd Lithonia, GA 30058",
+    "StandingOrderDays": "Tuesday, Thursday, Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "10:30"
+  },
+  {
+    "PickupAddress": "466 Maid Marion Ln Stone Mountain, GA 30087",
+    "DropOffAddress": "1987 Candler Rd C Decatur, GA 30032",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "13:30"
+  },
+  {
+    "PickupAddress": "3163 Clairebrooke Ave Chamblee, GA 30341-5134",
+    "DropOffAddress": "1150 LAKE HEARN DR NE 100 ATLANTA, GA 30342-1522",
+    "StandingOrderDays": "Tuesday, Thursday, Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "14:50"
+  },
+  {
+    "PickupAddress": "4516 Dorset Dr Decatur, GA 30035",
+    "DropOffAddress": "5405 Memorial Drive Stone Mountain , GA 30083",
+    "StandingOrderDays": "Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "17:00"
+  },
+  {
+    "PickupAddress": "152 Rue Fontaine 5B Lithonia, GA 30038",
+    "DropOffAddress": "4262 Clausell Ct A Decatur, GA 30035",
+    "StandingOrderDays": "Monday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "08:30"
+  },
+  {
+    "PickupAddress": "1672 Wellborn Rd Lithonia, GA 30058",
+    "DropOffAddress": "2485 PARK CENTRAL BLVD DECATUR, GA 30035-3903",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "09:45"
+  },
+  {
+    "PickupAddress": "5102 Wesley Providence Pkwy 5102 Stonecrest, GA 30038",
+    "DropOffAddress": "610 Northside Dr NW Atlanta, GA 30318",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "04:12"
+  },
+  {
+    "PickupAddress": "4263 Bingham Ct Stone Mountain, GA 30083",
+    "DropOffAddress": "2538 MARTIN LUTHER KING JR DR SW ATLANTA, GA 30311-1779",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "03:41"
+  },
+  {
+    "PickupAddress": "4186 Hanes Dr Decatur, GA 30035",
+    "DropOffAddress": "1116 E Ponce de Leon Ave Decatur, GA 30030",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "06:30"
+  },
+  {
+    "PickupAddress": "6398 Shadow Square Lithonia, GA 30058",
+    "DropOffAddress": "1116 E Ponce de Leon Ave Decatur, GA 30030",
+    "StandingOrderDays": "Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "07:45"
+  },
+  {
+    "PickupAddress": "4186 Hanes Dr Decatur, GA 30035",
+    "DropOffAddress": "1116 E Ponce de Leon Ave Decatur, GA 30030",
+    "StandingOrderDays": "Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "06:30"
+  },
+  {
+    "PickupAddress": "1211 Spring Chase Circle Stone Mountain, GA 30083",
+    "DropOffAddress": "1116 E Ponce de Leon Ave Decatur, GA 30030",
+    "StandingOrderDays": "Saturday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "07:00"
+  },
+  {
+    "PickupAddress": "2571 Candler Rd G-1 Decatur, GA 30032",
+    "DropOffAddress": "1116 E Ponce de Leon Ave Decatur, GA 30030",
+    "StandingOrderDays": "Monday, Tuesday, Wednesday, Thursday, Friday",
+    "MobilityType": "Ambulatory",
+    "PickupTimeA": "07:30"
+  },
+  {
+    "PickupAddress": "5277 Rosser Rd Stone Mountain, GA 30087",
+    "DropOffAddress": "1350 Montreal Rd Tucker, GA 30084",
+    "StandingOrderDays": "Monday, Wednesday, Friday",
+    "MobilityType": "Wheelchair",
+    "PickupTimeA": "14:15"
+  }
+]
+
+
+
+
+
+
+
+
